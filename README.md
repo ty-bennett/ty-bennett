@@ -14,7 +14,7 @@
 
 <hr>
 
-<p>Hi! My name is Ty Bennett, and welcome to my GitHub profile! </p> <p>I am currently a freshman computer science student at the University of South Carolina and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
+<p>Hi! My name is Ty Bennett and welcome to my <img src="https://img.sheilds.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github logo">GitHub profile! </p> <p>I am currently a freshman computer science student at the University of South Carolina and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
 <!--
 
 Here are some ideas to get you started:
