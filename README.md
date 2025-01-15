@@ -1,18 +1,20 @@
 # Ty Bennett    
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/tybennett24">
+  <a href="https://www.linkedin.com/in/tybennett24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="your-youtube-URL" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.x.com/tybennett24">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
+  <a href="https://www.x.com/tybennett24" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
 </div>
 
+<hr>
 
+<p>Hi! My name is Ty Bennett, and welcome to my GitHub profile! </p> <p>I am currently a freshman computer science student at the University of South Carolina and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
 <!--
 
 Here are some ideas to get you started:
