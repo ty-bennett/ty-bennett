@@ -1,6 +1,5 @@
-# Ty Bennett    
-
 <div id="badges">
+  <h1> Ty Bennett </h1>
   <a href="https://www.linkedin.com/in/tybennett24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
