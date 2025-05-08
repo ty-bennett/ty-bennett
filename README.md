@@ -3,16 +3,15 @@
   <br>
   <h2>Socials</h2>
   <a href="https://www.linkedin.com/in/tybennett24" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge>
-  </a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge/>
+      </a>
 </div>
 
 <hr>
 <div>
   <p>Hi! My name is Ty Bennett and welcome to my <a href="www.github.com/ty-bennett"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"></a> profile! </p>   
-  <p>I am currently a freshman computer science student at the University of South Carolina and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
-</div>
-
+  <p>I am currently a freshman computer science student at the University of South Carolina, and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
+</div>[
 <div>
   <h2>Languages</h2>
   <div style="display: flex; flex-direction: row;">
