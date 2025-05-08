@@ -30,7 +30,7 @@
 <div>
   <h2>Frameworks / Libraries</h2>
   <div style="display: flex; flex-direction: row;">
-    <img src="https://img.shields.io/badge/spring-%00ff00.svg?style=for-the-badge&logo=spring&logoColor=%00FF00">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>
 </div>
