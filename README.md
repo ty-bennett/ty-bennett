@@ -32,7 +32,7 @@
 </div>
 
 <div>
-  <h2>Technologies</h2>
+  <h2>Cloud Platforms</h2>
   <div style="display: flex; flex-direction: row;">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
