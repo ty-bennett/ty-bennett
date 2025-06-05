@@ -1,6 +1,5 @@
 <div id="badges">
   <h1> Ty Bennett </h1>
-  <br>
   <h2>Socials</h2>
   <a href="https://www.linkedin.com/in/tybennett24" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -56,6 +55,13 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
 </div>
+
+<div>
+  <h2>Leetcode</h2>
+  <img src="https://leetcard.jacoblin.cool/ty-bennett?ext=heatmap"/>
+  <br>
+</div>
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
