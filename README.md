@@ -9,7 +9,7 @@
 <hr>
 <div>
   <p>Hi! My name is Ty Bennett and welcome to my <a href="www.github.com/ty-bennett"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"></a> profile! </p>   
-  <p>I am currently a freshman computer science student at the University of South Carolina, and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
+  <p>I am currently a <b>sophomore</b> computer science student at the University of South Carolina, and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
 </div>
 <div>
   <h2>Languages</h2>
@@ -34,16 +34,15 @@
   <h2>Cloud Platforms</h2>
   <div style="display: flex; flex-direction: row;">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   </div>
 </div>
 
 <div>
   <h2>Tools</h2>
   <div style="display: flex; flex-direction: row;">
+    <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+    <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
   </div>
 </div>
 
