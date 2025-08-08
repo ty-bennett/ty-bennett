@@ -1,34 +1,24 @@
-<div id="badges">
-  <h1> Ty Bennett </h1>
-  <h2>Socials</h2>
-  <a href="https://www.linkedin.com/in/tybennett24" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-</div>
-
-<hr>
-<div>
-  <p>Hi! My name is Ty Bennett and welcome to my <a href="www.github.com/ty-bennett"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Github logo"></a> profile! </p>   
-  <p>I am currently a <b>sophomore</b> computer science student at the University of South Carolina, and you can view my page and pinned repositories to see what I am currently working on! Feel free to look around!</p>
-</div>
-<div>
-  <h2>Languages</h2>
-  <div style="display: flex; flex-direction: row;">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">    
-  </div>
-</div>
-
-<div>
-  <h2>Frameworks / Libraries</h2>
-  <div style="display: flex; flex-direction: row;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  </div>
-</div>
+# Ty Bennett
+  Hi! My name is Ty Bennett and welcome to my GitHub profile. I am currently a **sophomore** computer science major at the University of South Caorlina. Keep up with what I'm doing in my pinned repositories and see what I know below!   
+## Socials:
+  [![Linkedin Logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tybennett24)
+## Currently Reading:
+- ***Spring Start Here:** Learn what you need and learn it well* by Laurientu Spilca (2021)
+## Currently Studying:
+- Spring Boot
+- AWS Solutions Architect Associate
+- Leetcode 
+<!-- ### Books Completed (ask me about any of these!): -->
+## Languages:
+  ![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white")
+  ![JavaScript logo](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Python logo](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![HTML logo](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS logo](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
+## Frameworks / Libraries
+  ![Spring logo](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![React logo](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <div>
   <h2>Cloud Platforms</h2>
@@ -55,20 +45,9 @@
   </div>
 </div>
 
-<div>
-  <h2>Leetcode</h2>
-  <img src="https://leetcard.jacoblin.cool/ty-bennett?ext=heatmap"/>
-  <br>
-</div>
+## Leetcode
+  [](https://leetcard.jacoblin.cool/ty-bennett?ext=heatmap)
+## GitHub Stats:
+ [![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ty-bennett)]
 
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
