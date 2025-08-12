@@ -1,5 +1,5 @@
 # Ty Bennett
-  Hi! My name is Ty Bennett and welcome to my GitHub profile. I am currently a **sophomore** computer science major at the University of South Caorlina. Keep up with what I'm doing in my pinned repositories and see what I know below!   
+  Hi! My name is Ty Bennett and welcome to my GitHub profile. I am currently a **sophomore** computer science major at the University of South Carolina. Stay up-to-date with my latest projects in my pinned repositories and explore my knowledge below!   
 ## Socials:
   [![Linkedin Logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tybennett24)
 ## Currently Reading:
@@ -46,8 +46,8 @@
 </div>
 
 ## Leetcode
-  [](https://leetcard.jacoblin.cool/ty-bennett?ext=heatmap)
+  ![Leetcode map](https://leetcard.jacoblin.cool/ty-bennett?ext=heatmap)
 ## GitHub Stats:
- [![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ty-bennett)]
+ ![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ty-bennett)
 
 
