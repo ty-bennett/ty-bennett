@@ -24,6 +24,7 @@
   <h2>Cloud Platforms</h2>
   <div style="display: flex; flex-direction: row;">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
   </div>
 </div>
 
