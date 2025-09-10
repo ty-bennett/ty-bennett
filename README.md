@@ -6,7 +6,8 @@
 - ***Spring Start Here:** Learn what you need and learn it well* by Laurientu Spilca (2021)
 ## Currently Studying:
 - Spring Boot
-- AWS Solutions Architect Associate
+- Golang
+- Design Patterns
 - Leetcode 
 <!-- ### Books Completed (ask me about any of these!): -->
 ## Languages:
