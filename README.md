@@ -2,14 +2,19 @@
   Hi! My name is Ty Bennett and welcome to my GitHub profile. I am currently a **sophomore** computer science major at the University of South Carolina. Stay up-to-date with my latest projects in my pinned repositories and explore my knowledge below!   
 ## Socials:
   [![Linkedin Logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tybennett24)
+
 ## Currently Reading:
-- ***Spring Start Here:** Learn what you need and learn it well* by Laurientu Spilca (2021)
+- ***Design Patterns:** Elements of Reusable Object-Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994)
+
 ## Currently Studying:
 - Spring Boot
 - Golang
 - Design Patterns
-- Leetcode 
-<!-- ### Books Completed (ask me about any of these!): -->
+- Leetcode
+
+### Books Completed (ask me about any of these!):
+- ***Spring Start Here:** Learn what you need and learn it well* by Laurientu Spilca (2021)
+
 ## Languages:
   ![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white")
   ![JavaScript logo](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
