@@ -4,6 +4,7 @@
   [![Linkedin Logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tybennett24)
 
 ## Currently Reading:
+- ***Learning the vi and Vim Editors, 8th Edition*** by Arnold Robbins, Elbert Hannah (2021)
 - ***The Go Programming Language*** by Brian Kernighan and Alan A. A. Donovan (2016)
 <!-- - ***Design Patterns:** Elements of Reusable Object-Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994) -->
 
