@@ -57,10 +57,11 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
 </div>
-
+<!--
 ## Leetcode
   ![Leetcode map](https://leetcard.jacoblin.cool/ty-bennett?ext=heatmap)
-## GitHub Stats:
+ ## GitHub Stats:
  ![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=ty-bennett)
+ -->
 
 
