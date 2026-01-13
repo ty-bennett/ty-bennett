@@ -9,8 +9,10 @@
 - ***Design Patterns:** Elements of Reusable Object-Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994)
 
 ## Currently Studying:
-- Spring Boot
-- Golang
+<!-- Spring Boot --> <!-- Golang -->
+- Azure
+- Java, JUnit
+- SDLC, Agile Development
 - Design Patterns
 - Leetcode
 
