@@ -1,5 +1,5 @@
 # Ty Bennett
-  Hi! My name is Ty Bennett and welcome to my GitHub profile. I am currently a **sophomore** computer science major at the University of South Carolina. Stay up-to-date with my latest projects in my pinned repositories and explore my knowledge below!   
+  Hi! My name is Ty Bennett, and welcome to my GitHub profile. I am currently a **sophomore** computer science major at the University of South Carolina. Stay up-to-date with my latest projects in my pinned repositories and see what I know below. I have a passion for cloud technologies, homelabbing, and development. I aspire one day to be a DevOps Engineer or a Solutions Architect. If you are reading this and have any opportunities, feel free to reach out and connect!
 ## Socials:
   [![Linkedin Logo](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tybennett24)
 
