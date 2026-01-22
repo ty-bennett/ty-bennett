@@ -7,6 +7,7 @@
 <!-- - ***Learning the vi and Vim Editors, 8th Edition*** by Arnold Robbins, Elbert Hannah (2021) -->
 <!-- - ***The Go Programming Language*** by Brian Kernighan and Alan A. A. Donovan (2016) -->
 - ***Design Patterns:** Elements of Reusable Object-Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994)
+- **Head First Design Patterns, 2nd Edition** by Eric Freeman, Elisabeth Robson (2020)
 
 ## Currently Studying:
 <!-- Spring Boot --> <!-- Golang -->
