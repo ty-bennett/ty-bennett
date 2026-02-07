@@ -15,7 +15,7 @@
 - Java, JUnit
 - SDLC, Agile Development
 - Design Patterns
-- Leetcode
+- K8s
 
 ### Books Completed (ask me about any of these!):
 - ***Spring Start Here:** Learn what you need and learn it well* by Laurientu Spilca (2021)
