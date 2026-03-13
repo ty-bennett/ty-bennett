@@ -36,6 +36,7 @@
 <div>
   <h2> Certifications</h2>
   <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+  <img src="https://images.credly.com/size/220x220/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png">
 </div>
 
 <div>
