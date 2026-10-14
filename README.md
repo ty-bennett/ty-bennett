@@ -39,24 +39,14 @@
 ## Frameworks / Libraries
   ![Spring logo](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![React logo](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+## Certifications 
+  ![aws-saa](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+  ![aws-cloud-club-cap](https://images.credly.com/size/220x220/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png)
 
-<div>
-  <h2> Certifications</h2>
-  <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
-  <img src="https://images.credly.com/size/220x220/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png">
-</div>
-
-<div>
-  <h2>Cloud Platforms</h2>
-  <div style="display: flex; flex-direction: row;">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white">
-  </div>
-</div>
-
-<div>
-  <h2>Tools</h2>
-  <div style="display: flex; flex-direction: row;">
+  ## Skills
+   ![aws-logo](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+   ![azure-logo](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
     <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
