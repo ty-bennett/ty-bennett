@@ -7,25 +7,29 @@
 <!-- - ***Learning the vi and Vim Editors, 8th Edition*** by Arnold Robbins, Elbert Hannah (2021) -->
 <!-- - ***The Go Programming Language*** by Brian Kernighan and Alan A. A. Donovan (2016) -->
 <!-- - ***Design Patterns:** Elements of Reusable Object-Oriented Software* by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (1994) -->
-- **The Kubernetes Book:** by Nigel Poulton (2025)
-- **Head First Design Patterns, 2nd Edition** by Eric Freeman, Elisabeth Robson (2020)
+<!-- - **The Kubernetes Book:** by Nigel Poulton (2025) -->
+<!-- - **Head First Design Patterns, 2nd Edition** by Eric Freeman, Elisabeth Robson (2020) -->
 
 ## Currently Studying:
-<!-- Spring Boot --> <!-- Golang -->
-- Azure
-- Java, JUnit
-- SDLC, Agile Development
-- Design Patterns
-- K8s
+<!-- Spring Boot --> 
+<!-- - Azure -->
+<!-- - Java, JUnit -->
+<!-- - SDLC, Agile Development-->
+<!-- - Design Patterns -->
+- Go
+- Kubernetes
+- Data Structures & Algorithms
+- AI/ML
 
 ### Books Completed (ask me about any of these!):
 - ***Spring Start Here:** Learn what you need and learn it well* by Laurientu Spilca (2021)
 
 ## Languages:
-  ![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python logo](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![TypeScript logo](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Go logo](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+  ![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![HTML logo](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS logo](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ---
